@@ -36,6 +36,7 @@
 **[⬆ 상단으로](#목차)**
 
 
+
 ## Document 인터페이스
 
 ### Document 프로퍼티: DocumentType, doctype 형태, document 프로퍼티
